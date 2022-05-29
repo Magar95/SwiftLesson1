@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3B9740D4-5CD5-49ED-AB48-A27C78F1C505"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89D62626-C9DE-4024-A804-55255FE509FF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lesson1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "89D62626-C9DE-4024-A804-55255FE509FF - faffa1186875a9bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson1.ViewController.emojiChoices.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Lesson1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadahmadov/Desktop/swift_projects/Lesson1/Lesson1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "89D62626-C9DE-4024-A804-55255FE509FF - 9cb9ef5a639e26b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson1.ViewController.emojiChoices.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Lesson1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadahmadov/Desktop/swift_projects/Lesson1/Lesson1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "89D62626-C9DE-4024-A804-55255FE509FF - 9d3050c0fcef85e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson1.ViewController.emojiChoices.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Lesson1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadahmadov/Desktop/swift_projects/Lesson1/Lesson1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "89D62626-C9DE-4024-A804-55255FE509FF - d62626fd6039ead4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson1.ViewController.emojiChoices.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Lesson1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadahmadov/Desktop/swift_projects/Lesson1/Lesson1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "89D62626-C9DE-4024-A804-55255FE509FF - 3d9f6e6ec5359b4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Lesson1.ViewController"
+                  moduleName = "Lesson1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadahmadov/Desktop/swift_projects/Lesson1/Lesson1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "89D62626-C9DE-4024-A804-55255FE509FF - df3bbcd6dd972076"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lesson1.ViewController&gt;"
+                  moduleName = "Lesson1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadahmadov/Desktop/swift_projects/Lesson1/Lesson1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
